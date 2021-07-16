@@ -16,6 +16,8 @@ To install and run the example site locally, here’s what you’ll need:
 
 ## Usage
 
+PERSONAL TEST
+
 Clone this repository and run:
 
 ```bash
